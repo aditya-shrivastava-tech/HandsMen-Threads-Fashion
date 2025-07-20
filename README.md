@@ -11,10 +11,10 @@ A key aspect of this project is the maintenance of data integrity directly from 
 3. **Proactive Stock Alerts:** When stock levels drop below five units, automatic emails will notify the warehouse team, ensuring timely restocking and preventing stockouts.
 4. **Scheduled Bulk Order Updates:** Daily midnight, the system will process bulk orders, updating financial records and adjusting inventory, ensuring accurate stock levels for daily operations.
 
-## Objects and Fields:
+## Objects and Fields: (ERD)
 <img width="1869" height="529" alt="image" src="https://github.com/user-attachments/assets/ba4c2495-0cd8-469f-bb51-a7dc0479efb5" />
 
-## Flows 
+## Flows (Automation Strategy)
 1. **Order Confirmation Flow:**
 When the "Status" field = "Confirmed" in HandsMen order object, it sends an email alert to the customer's registered email ID.
 <img width="395" height="667" alt="image" src="https://github.com/user-attachments/assets/5d5490c5-7710-4d07-9c68-de52ef81d119" />
