@@ -1,4 +1,4 @@
-## **Note:** To view the project metadata, download and unzip the force-app zip file and 
+## **Note:** To view the project metadata, download and unzip the force-app zip file and open the folders for flows, objects, tabs, applications, classes etc under the default folder.
 
 # HandsMen-Threads-Fashion
 Elevating the Art of Sophistication in Men's Fashion
