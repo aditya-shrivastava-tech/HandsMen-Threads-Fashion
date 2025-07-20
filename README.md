@@ -1,3 +1,5 @@
+## **Note:** To view the project metadata, download and unzip the force-app zip file and 
+
 # HandsMen-Threads-Fashion
 Elevating the Art of Sophistication in Men's Fashion
 
